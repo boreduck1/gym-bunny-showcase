@@ -6,7 +6,7 @@
 
 > Статус проекта: закрытое тестирование в TestFlight
 
-![Gym Bunny](assets/cover.png)
+![Gym Bunny](assets/icon.png)
 
 ## О приложении
 
